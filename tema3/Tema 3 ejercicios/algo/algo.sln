@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{28F2B955-33AF-B47C-BEC1-D823B0F1A941}") = "algo", "Assembly-CSharp.csproj", "{1E51A1F9-2F4E-0231-744C-23E3721B5EAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E51A1F9-2F4E-0231-744C-23E3721B5EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E51A1F9-2F4E-0231-744C-23E3721B5EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E51A1F9-2F4E-0231-744C-23E3721B5EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E51A1F9-2F4E-0231-744C-23E3721B5EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
