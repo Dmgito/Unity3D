@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CC4A803C-B8FD-5AEC-B87A-551F4BA5D283}") = "escenas", "Assembly-CSharp.csproj", "{733FB3C4-EBBC-FB1E-B462-7F8A090A2739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{733FB3C4-EBBC-FB1E-B462-7F8A090A2739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{733FB3C4-EBBC-FB1E-B462-7F8A090A2739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{733FB3C4-EBBC-FB1E-B462-7F8A090A2739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{733FB3C4-EBBC-FB1E-B462-7F8A090A2739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
